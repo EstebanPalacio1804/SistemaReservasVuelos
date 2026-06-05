@@ -37,9 +37,20 @@ Desarrollar una aplicación que permita gestionar la reserva de asientos en vuel
 
 ## 📸 Capturas de Pantalla
 
-* Pantalla Principal
-* Reserva de Asientos
-* Consulta de Disponibilidad
+## 📸 Capturas de Pantalla
+
+### Pantalla Principal
+
+![Pantalla Principal](screenshots/pantalla_principal.png)
+
+### Reserva de Asientos
+
+![Reserva de Asientos](screenshots/reserva_realizada.png)
+
+### Consulta de Disponibilidad
+
+![Consulta de Disponibilidad](screenshots/consulta_asientos.png)
+
 
 ## ▶️ Ejecución
 
