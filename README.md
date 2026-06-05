@@ -37,7 +37,6 @@ Desarrollar una aplicación que permita gestionar la reserva de asientos en vuel
 
 ## 📸 Capturas de Pantalla
 
-## 📸 Capturas de Pantalla
 
 ### Pantalla Principal
 
